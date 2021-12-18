@@ -6,12 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="TP" />
         <module name="Laba1" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Laba1" target="8" />
       <module name="r" target="8" />
+      <module name="TP" target="8" />
       <module name="TP1" target="15" />
       <module name="TP2" target="8" />
       <module name="TP3" target="8" />
